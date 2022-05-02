@@ -9,6 +9,10 @@ describe('fizzBuzz()', () => {
 });
 
 /**
- * Note: we are going to solve "http://wiki.c2.com/?FizzBuzzTest"
+ * Note: 1. we are going to solve "http://wiki.c2.com/?FizzBuzzTest"
  *      using TDD
+ * 
+ * 2. npx jest --watchAll --coverage --coverageReporters=text
+ *      this will run jest in watch mode and will print code coverage
+ *      reports as well
  */
